@@ -37,3 +37,20 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 ---
 
 > 💬 “El conocimiento crece cuando se comparte. Y el código también.” 🚀
+>
+> ---
+
+### 📊 Estadísticas
+
+<div align="center">
+  
+  ![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duenas1521&show_icons=true&theme=radical)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duenas1521&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duenas1521&theme=radical)
+
+</div>
+
+---
+
