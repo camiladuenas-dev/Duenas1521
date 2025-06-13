@@ -30,7 +30,7 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 
 ### 📫 ¿Hablamos?
 
-- 📩 **Email**: (agrega uno si quieres)
+- 📩 **Email**: cduenas@updevelop.com.co
 - 🌐 [LinkedIn](https://linkedin.com/in/TULINKAQUÍ)
 - 🧠 [Up Develop](https://github.com/updevelop) (¡síguenos!)
 
