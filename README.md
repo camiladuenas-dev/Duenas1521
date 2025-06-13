@@ -31,8 +31,8 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 ### 📫 ¿Hablamos?
 
 - 📩 **Email**: cduenas@updevelop.com.co
-- 🌐 📫 **Conecta conmigo en LinkedIn:** [Camila Alejandra Dueñas Sánchez](https://www.linkedin.com/in/camila-alejandra-dueñas-sánchez-3570211a8)
 - 🧠 [Up Develop](https://github.com/updevelop) (¡síguenos!)
+- - 🌐 📫 **Conecta conmigo en LinkedIn:** [Camila Alejandra Dueñas Sánchez](https://www.linkedin.com/in/camila-alejandra-dueñas-sánchez-3570211a8)
 
 ---
 
