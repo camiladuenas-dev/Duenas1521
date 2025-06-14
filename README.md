@@ -54,5 +54,5 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 
 ---
 
-![GitHub Snake](./dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg?user=camiladuenas-dev&theme=dracula)
 
