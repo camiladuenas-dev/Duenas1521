@@ -56,4 +56,3 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 
 ![GitHub Snake](./dist/github-contribution-grid-snake.svg)
 
-
