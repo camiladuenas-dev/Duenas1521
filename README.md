@@ -46,11 +46,11 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 
 <div align="center">
   
-  ![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiladuenas-dev&show_icons=true&theme=onedark)
+  ![Camila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiladuenas-dev&show_icons=true&theme=merko)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiladuenas-dev&layout=compact&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiladuenas-dev&layout=compact&theme=merko)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camiladuenas-dev&theme=onedark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camiladuenas-dev&theme=merko)
 
 </div>
 
