@@ -54,5 +54,6 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 
 ---
 
-![GitHub Snake](https://github.com/camiladuenas-dev/camiladuenas-dev/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](./dist/github-contribution-grid-snake.svg)
+
 
