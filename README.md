@@ -32,7 +32,7 @@ Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amiga
 
 - 📩 **Email**: cduenas@updevelop.com.co
 - 🧠 [Up Develop](https://github.com/updevelop) (¡síguenos!)
-- 🌐 📫 **Conecta conmigo en LinkedIn:** [(https://www.linkedin.com/in/camiladuenas-dev/)]
+- 🌐 📫 **Conecta conmigo en LinkedIn:** (https://www.linkedin.com/in/camiladuenas-dev/)
 
 ---
 
