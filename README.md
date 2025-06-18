@@ -1,4 +1,8 @@
-### ¡Hola! Soy Camila Dueñas 👩‍💻✨
+### <p align="center"> ¡Hola! Soy Camila Dueñas 👩‍💻✨</p>
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+de+Software💻;Cofundadora+de+Up+Develop🚀;Creando+soluciones+digitales✨;&center=true&width=420&height=45">
+</p>
 
 Desarrolladora web y móvil, apasionada por crear soluciones funcionales y amigables. Actualmente construyendo proyectos con ❤️ en **Up Develop** y aprendiendo cada día algo nuevo.
 
